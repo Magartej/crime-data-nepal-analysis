@@ -3,7 +3,8 @@
 ---
 
 ![Google Colab](https://img.shields.io/badge/Platform-Google%20Colab-orange) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/yourusername/crime-data-analysis-nepal)
-![GitHub](https://github.com/Magartej/crime-data-nepal-analysis)
+![GitHub](https://img.shields.io/github/license/yourusername/crime-data-analysis-nepal)
+![License](https://img.shields.io/github/license/yourusername/crime-data-analysis-nepal)
 
 ---
 
