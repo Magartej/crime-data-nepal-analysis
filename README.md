@@ -23,53 +23,54 @@ Key crimes analyzed may include theft, assault, domestic violence, cybercrime, a
 
 ---
 
-## What's Inside
+## 📁 Repository Contents
 
-1. Exploratory Data Analysis (EDA)
-2. Statistical Testing:
-   - T-Test
-   - Odds Ratio
-   - Chi-Square Test
-3. Feature Selection Techniques:
-   - Correlation Matrix
-   - SelectKBest
-   - Extra Tree Classifier
-4. Feature Scaling Methods:
-   - Log Transformation
-   - Standardization
-   - Normalization
-5. Class Imbalance Handling:
-   - Random Undersampling
-   - Random Oversampling
-   - SMOTE
-   - ADASYN
-6. Preventing Data Leakage
-7. Machine Learning Algorithms Applied:
-   - Decision Tree (DT)
-   - Random Forest (RF)
-   - Logistic Regression (LR)
-   - K-Nearest Neighbors (KNN)
-   - Support Vector Machine (SVM)
-   - Gaussian Naive Bayes (NB)
-8. Model Evaluation Metrics:
-   - Accuracy
-   - AUC (Area Under Curve)
-   - Precision
-   - Recall
-   - F1 Score
-   - Kappa Statistic
-9. Hyperparameter Tuning using GridSearchCV
-10. 5-Fold Cross-Validation
+- `Data_analysis.ipynb`: The main Jupyter Notebook where all data cleaning, exploration, and visualizations are conducted.
+- `crime.csv`: The dataset containing crime-related information in Nepal.
 
----
+## 🧠 Key Features
 
-## Usage
+- Exploratory Data Analysis (EDA) of crime data in Nepal.
+- Data cleaning and preprocessing.
+- Visualizations using libraries like Matplotlib and Seaborn.
+- Statistical analysis and insights based on historical trends.
 
-[Open Google Colab Notebook](https://colab.research.google.com/)  
-(Replace with direct Colab link to your notebook)
+## 🔧 Technologies Used
 
----
+- Python
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- Seaborn
 
-## Contributing
+## 📊 Visual Insights
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Your contributions are welcome and greatly appreciated!
+The notebook includes visual representations of:
+
+- Crime frequency by year and type
+- Monthly and district-wise crime distributions
+- Trend analysis over time
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+- Python 3.x
+- Jupyter Notebook
+- pandas
+- matplotlib
+- seaborn
+
+### How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Magartej/crime-data-nepal-analysis.git
+   cd crime-data-nepal-analysis
+
+
+   ```
+
+Let me know if you’d like a version that includes screenshots, deployment instructions, or summary insights from the analysis.
