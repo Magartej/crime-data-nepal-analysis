@@ -1,4 +1,4 @@
-# Crime Data Analysis Nepal Using Machine Learning
+# Crime Data Analysis Nepal
 
 ---
 
@@ -66,6 +66,7 @@ Ensure you have the following installed:
 ### How to Run
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/Magartej/crime-data-nepal-analysis.git
    cd crime-data-nepal-analysis
