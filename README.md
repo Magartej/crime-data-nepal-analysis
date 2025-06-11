@@ -9,9 +9,9 @@
 
 # Overview
 
-This repository contains machine learning code for analyzing crime data in Nepal using **Google Colab**. The dataset used originates from crime-related statistics and aims to uncover trends, patterns, and correlations within Nepal's crime landscape.
+This repository is for analyzing crime data in Nepal using **Google Colab**. The dataset used originates from crime-related statistics and aims to uncover trends, patterns, and correlations within Nepal's crime landscape.
 
-The analysis includes a wide variety of machine learning and statistical methods to understand the nature of crime, its distribution, and possible influencing factors. The data is preprocessed, analyzed, visualized, and modeled to extract insights and make predictive assessments.
+The analysis includes a wide variety of statistical methods to understand the nature of crime, its distribution, and possible influencing factors. The data is preprocessed, analyzed, visualized, and modeled to extract insights and make predictive assessments.
 
 ---
 
